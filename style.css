@@ -4,6 +4,10 @@
     box-sizing: border-box;
     
 }
+#linkk {
+    text-decoration: none;
+    color: inherit;
+}
 h1{
     font-size: 40px;
     line-height: 64px;
